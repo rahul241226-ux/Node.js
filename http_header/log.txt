@@ -1,5 +1,0 @@
-
-{$Date.now()}: ::1 GET: /users
-{$Date.now()}: ::1 GET: /favicon.ico
-{$Date.now()}: ::1 GET: /users
-{$Date.now()}: ::1 GET: /favicon.ico
