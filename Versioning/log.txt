@@ -1,0 +1,18 @@
+// version
+
+//   "express": "^5.2.1"
+1st part: 5
+2nd part:2
+3rd path:1
+
+// 3rd part (last path): minor bug fixes(optional)
+latest:5.2.2
+
+
+2nd part: recommended bug fix (security) 
+latest :5.3.1
+
+
+
+1st part: major realese / breaking update
+6.0.0
